@@ -41,4 +41,9 @@ public class UserDetailsController {
 	   return "{\"Date\":\""+uds.getDate(id)+"\"}";
    }
    
+   
+   
+   
+   
+   
    }
